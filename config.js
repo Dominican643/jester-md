@@ -8,25 +8,25 @@ const axios = require('axios');
 // Ori : @callmevinz
 
 //=== Edit Disini 🔥
-global.namabot = "𝐉𝐄𝐒𝐓𝐄𝐑 𝐌𝐃"
-global.namaowner = "⟠ 𝐃𝐑𝚺𝐗 ⿻ 𝐂𝐋͢𝐢𝚵𝐍͢𝐓 々"
-global.packname = "Sticker by"
-global.creator = "⟠ 𝐃𝐑𝚺𝐗 ⿻ 𝐂𝐋͢𝐢𝚵𝐍͢𝐓 々"
-global.author = "𝐉𝐄𝐒𝐓𝐄𝐑 𝐌𝐃\n\n+254102074064"
-global.wm = "𝐉𝐄𝐒𝐓𝐄𝐑 𝐌𝐃"
+global.namabot = "𝕸𝖆𝖘𝖙𝖊𝖗 𝕺𝖔𝖌𝖜𝖆𝖞'𝖘 𝕭𝖔𝖙"
+global.namaowner = "𝕸𝖆𝖘𝖙𝖊𝖗 𝕺𝖔𝖌𝖜𝖆𝖞  ☢︎  𝖌𝖗𝖊𝖞 🕊️"
+global.packname = "𝕭𝖊𝖑𝖔𝖓𝖌𝖘 𝖙𝖔"
+global.creator = "𝕸𝖆𝖘𝖙𝖊𝖗 𝕺𝖔𝖌𝖜𝖆𝖞  ☢︎  𝖌𝖗𝖊𝖞 🕊️"
+global.author = "𝕸𝖆𝖘𝖙𝖊𝖗 𝕺𝖔𝖌𝖜𝖆𝖞"
+global.wm = "𝕸𝖆𝖘𝖙𝖊𝖗 𝕺𝖔𝖌𝖜𝖆𝖞'𝖘 𝕭𝖔𝖙"
 global.syt = "https://www.youtube.com/@SanjayaAds"
 global.sgc = "https://chat.whatsapp.com/BhLOaPSL3SKCw9QAnudLDw"
 global.idgc = "120363250058335630@g.us"
-global.email = "OwnerKuu@gmail.com"
+global.email = "davidmichael47700@gmail.com"
 global.sig = "https://Instagram.com/@Jayy_yete"
 global.myweb = "https://shoplinks.to/AiBotzzSH"
-global.footer_text = "© Jester-MD"
-global.owner = ['254102074064']
-global.gifin = "https://telegra.ph/file/0cf1c5039a2be1b66ef15.mp4"
-global.thumb = "https://telegra.ph/file/6b25dc6f38b32804d7e59.jpg"
-global.thumb2 = "https://telegra.ph/file/c74dda31793574f84070e.jpg"
-global.mark = "https://telegra.ph/file/9b67cb5ed0ff661027366.jpg"
-global.themeemoji = '🌐'
+global.footer_text = "© 𝕸𝖆𝖘𝖙𝖊𝖗 𝕺𝖔𝖌𝖜𝖆𝖞 ☢︎"
+global.owner = ['2347015667458']
+global.gifin = "https://telegra.ph/file/e358d95eaed6e4cab2034.jpg"
+global.thumb = "https://telegra.ph/file/e358d95eaed6e4cab2034.jpg"
+global.thumb2 = "https://telegra.ph/file/e358d95eaed6e4cab2034.jpg4"
+global.mark = "https://telegra.ph/file/e358d95eaed6e4cab2034.jpg"
+global.themeemoji = '☯︎'
 
 //=== Introgasi 🗿
 global.umurowner = "Privat" // Terserah🗿
@@ -36,8 +36,8 @@ global.lakiapacewek = "Lanang" // Terserah
 // Kalo mau gak diisi juga gak papa
 
 //=== Payment 😋
-global.qris = "https://telegra.ph/file/6a367b58ed14c5009179d.jpg"
-global.pulsa = "https://telegra.ph/file/778689e2ede51180102ca.jpg"
+global.qris = "https://telegra.ph/file/e358d95eaed6e4cab2034.jpg"
+global.pulsa = "https://telegra.ph/file/e358d95eaed6e4cab2034.jpg"
 global.dana = "0838-3140-9855"
 global.gopay = "Gak ada"
 global.rek = "7605-0101-8289-536"
@@ -60,9 +60,9 @@ global.APIKeys = {
 }
 
 //=== Gak Tau 🐦
-global.pairingNumber = "254102074064"
+global.pairingNumber = "2347015667458"
 // Nomor whatsapp bot lu
-global.prefix = ['-_-'] 
+global.prefix = ['✓'] 
 // Jangan diubah
 global.tekspushcontact = "Izin Push" 
 // Terserah
@@ -84,11 +84,11 @@ global.anticall = true
 // False (Nonaktifin)
 global.autoreadsw = true
 // False (Nonaktifin)
-global.antiBot = true
+global.antiBot = false
 // False (Nonaktifin)
 global.pengingat = true
 // False (Nonaktifin)
-global.autoTyping = true
+global.autoTyping = false
 // False (Nonaktifin)
 global.autoBio = true
 // False (Nonaktifin)
